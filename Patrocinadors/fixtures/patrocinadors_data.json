@@ -1,0 +1,114 @@
+[
+  {
+    "model": "Patrocinadors.Patrocinador",
+    "pk": 1,
+    "fields": {
+      "nom": "Pura Ceba",
+      "email": "puraceba@gmail.com",
+      "numCompte": "12345667435757575",
+      "telefon": 650735088,
+      "path_imatge": "patrocinadors/puracebapega.png",
+      "direccio": "Calle Juvenal",
+      "link": "http://www.puraceba.cat/",
+      "actiu": 1
+    }
+  },
+  {
+    "model": "Patrocinadors.Patrocinador",
+    "pk": 2,
+    "fields": {
+      "nom": "Figuerola",
+      "email": "figuerola@gmail.com",
+      "numCompte": "779830573647586570",
+      "telefon": 934827467,
+      "path_imatge": "patrocinadors/figuerola.png",
+      "direccio": "Calle Juvenal",
+      "link": "http://www.figuerolacopisteria.com/",
+      "actiu": 1
+    }
+  },
+  {
+    "model": "Patrocinadors.Patrocinador",
+    "pk": 3,
+    "fields": {
+      "nom": "MHN Suministros",
+      "email": "mhn@gmail.com",
+      "numCompte": "26589037564867893",
+      "telefon": 692334086,
+      "path_imatge": "patrocinadors/logo-mhn-suministros.png",
+      "direccio": "Calle Juvenal",
+      "link": "https://mhnsuministros.com/",
+      "actiu": 1
+    }
+  },
+  {
+    "model": "Patrocinadors.Patrocinador",
+    "pk": 4,
+    "fields": {
+      "nom": "Disnova",
+      "email": "disnova@gmail.com",
+      "numCompte": "29574553096824450",
+      "telefon": 937823677,
+      "path_imatge": "patrocinadors/disnova.png",
+      "direccio": "Calle Juvenal",
+      "link": "https://disnova.es/",
+      "actiu": 1
+    }
+  },
+  {
+    "model": "Patrocinadors.Patrocinador",
+    "pk": 5,
+    "fields": {
+      "nom": "Reformes Campoy",
+      "email": "rc@gmail.com",
+      "numCompte": "28573945834098573",
+      "telefon": 932763480,
+      "path_imatge": "patrocinadors/rc.jpeg",
+      "direccio": "Calle Juvenal",
+      "link": "https://www.facebook.com/people/Reformes-Campoy/100063929474136/",
+      "actiu": 1
+    }
+  },
+  {
+    "model": "Patrocinadors.Patrocinador",
+    "pk": 6,
+    "fields": {
+      "nom": "Imagine Confort",
+      "email": "imagineconfort@gmail.com",
+      "numCompte": "72830493856120984",
+      "telefon": 659236559,
+      "path_imatge": "patrocinadors/imagineConfort.jpg",
+      "direccio": "Calle Juvenal",
+      "link": "http://imagineconfort.com/",
+      "actiu": 1
+    }
+  },
+  {
+    "model": "Patrocinadors.Patrocinador",
+    "pk": 7,
+    "fields": {
+      "nom": "Fisionum",
+      "email": "fisionum@gmail.com",
+      "numCompte": "30929387740123785",
+      "telefon": 645871125,
+      "path_imatge": "patrocinadors/descarga.jpeg",
+      "direccio": "Calle Juvenal",
+      "link": "https://fisionum.com/",
+      "actiu": 1
+    }
+  },
+  {
+    "model": "Patrocinadors.Patrocinador",
+    "pk": 8,
+    "fields": {
+      "nom": "Viando",
+      "email": "viando@gmail.com",
+      "numCompte": "50920389560284671",
+      "telefon": 678439054,
+      "path_imatge": "patrocinadors/viando.png",
+      "direccio": "Calle Juvenal",
+      "link": "https://viando.cat/",
+      "actiu": 1
+    }
+  }
+]

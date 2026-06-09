@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sabadell Rugby Club | Activació del compte d'usuari</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            padding: 20px;
+        }
+
+        h1, h2, p {
+            margin: 0;
+        }
+
+        .container {
+            width: fit-content;
+            margin: 0 auto;
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .button {
+            display: inline-block;
+            background-color: #4CAF50;
+            color: #ffffff;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            margin-top: 20px;
+        }
+
+        .center {
+            text-align: center;
+            align-items: center;
+        }
+
+        .logo {
+            max-height: 200px;
+        }
+
+        .footer {
+            margin-top: 50px;
+            text-align: center;
+            align-items: center;
+            background-color: #e3e3e3;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="center">
+        <img class="logo" src="https://i.ibb.co/txDG7YR/banner-1.png" alt="Logo Sabadell Rugby Club"/>
+    </div>
+    <h1>Benvingut a Sabadell Rugby Club!</h1><br>
+    <p>Hola, {{ username }}. Per activar el teu compte, simplement fes click en el següent botó:</p>
+    <a href="{{ activation_link }}" class="button">Activar compte</a><br><br>
+    <p>Una vegada hagis activat el teu compte, podràs accedir a totes les funcions de la nostra plataforma i
+        començar a gaudir dels beneficis de ser part del Sabadell Rugby Club.</p><br>
+    <p>Si tens alguna pregunta o necessites ajuda, no dubtis a posar-te en contacte amb nosaltres.</p><br><br>
+    <p>Salutacions cordials,</p><br>
+    <p>L'equip del Sabadell Rugby Club</p>
+    <div class="footer">
+        <p>Sabadell Rugby Club</p>
+        <p>Carrer de Rialb, 11, 08207 Sabadell, Barcelona</p>
+        <p>Telèfon: 661 01 48 37</p>
+        <p >Correu: <a href="mailto:sabrugbyclub@gmail.com">sabrugbyclub@gmail.com</a></p>
+    </div>
+</div>
+</body>
+</html>

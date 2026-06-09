@@ -1,0 +1,210 @@
+[
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 1,
+    "fields": {
+      "equip_id": 1,
+      "rolusuari_id": 9
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 2,
+    "fields": {
+      "equip_id": 1,
+      "rolusuari_id": 10
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 3,
+    "fields": {
+      "equip_id": 1,
+      "rolusuari_id": 11
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 4,
+    "fields": {
+      "equip_id": 1,
+      "rolusuari_id": 12
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 5,
+    "fields": {
+      "equip_id": 1,
+      "rolusuari_id": 13
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 6,
+    "fields": {
+      "equip_id": 1,
+      "rolusuari_id": 14
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 7,
+    "fields": {
+      "equip_id": 1,
+      "rolusuari_id": 15
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 8,
+    "fields": {
+      "equip_id": 1,
+      "rolusuari_id": 16
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 9,
+    "fields": {
+      "equip_id": 1,
+      "rolusuari_id": 17
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 10,
+    "fields": {
+      "equip_id": 1,
+      "rolusuari_id": 20
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 11,
+    "fields": {
+      "equip_id": 1,
+      "rolusuari_id": 21
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 12,
+    "fields": {
+      "equip_id": 1,
+      "rolusuari_id": 22
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 13,
+    "fields": {
+      "equip_id": 1,
+      "rolusuari_id": 24
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 14,
+    "fields": {
+      "equip_id": 2,
+      "rolusuari_id": 25
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 15,
+    "fields": {
+      "equip_id": 2,
+      "rolusuari_id": 26
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 16,
+    "fields": {
+      "equip_id": 2,
+      "rolusuari_id": 27
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 17,
+    "fields": {
+      "equip_id": 2,
+      "rolusuari_id": 28
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 18,
+    "fields": {
+      "equip_id": 2,
+      "rolusuari_id": 29
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 19,
+    "fields": {
+      "equip_id": 2,
+      "rolusuari_id": 30
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 20,
+    "fields": {
+      "equip_id": 2,
+      "rolusuari_id": 31
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 21,
+    "fields": {
+      "equip_id": 2,
+      "rolusuari_id": 32
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 22,
+    "fields": {
+      "equip_id": 2,
+      "rolusuari_id": 33
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 23,
+    "fields": {
+      "equip_id": 2,
+      "rolusuari_id": 34
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 24,
+    "fields": {
+      "equip_id": 2,
+      "rolusuari_id": 35
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 25,
+    "fields": {
+      "equip_id": 2,
+      "rolusuari_id": 36
+    }
+  },
+  {
+    "model": "Equip.EquipUsuaris",
+    "pk": 26,
+    "fields": {
+      "equip_id": 2,
+      "rolusuari_id": 23
+    }
+  }
+]

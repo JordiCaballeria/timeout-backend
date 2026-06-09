@@ -1,0 +1,51 @@
+[
+  {
+    "model": "User.Rol",
+    "pk": 1,
+    "fields": {
+      "nom": "Administrador/a"
+    }
+  },
+  {
+    "model": "User.Rol",
+    "pk": 2,
+    "fields": {
+      "nom": "Directiu"
+    }
+  },
+  {
+    "model": "User.Rol",
+    "pk": 3,
+    "fields": {
+      "nom": "Delegat"
+    }
+  },
+  {
+    "model": "User.Rol",
+    "pk": 4,
+    "fields": {
+      "nom": "Secretari/a"
+    }
+  },
+  {
+    "model": "User.Rol",
+    "pk": 5,
+    "fields": {
+      "nom": "Comptable"
+    }
+  },
+  {
+    "model": "User.Rol",
+    "pk": 6,
+    "fields": {
+      "nom": "Entrenador/a"
+    }
+  },
+  {
+    "model": "User.Rol",
+    "pk": 7,
+    "fields": {
+      "nom": "Jugador/a"
+    }
+  }
+]

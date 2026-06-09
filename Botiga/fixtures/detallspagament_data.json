@@ -1,0 +1,14 @@
+[
+  {"model": "Botiga.DetallsPagament", "pk": 1,  "fields": {"pagament": 1,  "producte": 1,  "talla": 3,  "quantitat": "1"}},
+  {"model": "Botiga.DetallsPagament", "pk": 2,  "fields": {"pagament": 2,  "producte": 1,  "talla": 2,  "quantitat": "1"}},
+  {"model": "Botiga.DetallsPagament", "pk": 3,  "fields": {"pagament": 2,  "producte": 2,  "talla": 2,  "quantitat": "1"}},
+  {"model": "Botiga.DetallsPagament", "pk": 4,  "fields": {"pagament": 4,  "producte": 5,  "talla": 4,  "quantitat": "1"}},
+  {"model": "Botiga.DetallsPagament", "pk": 5,  "fields": {"pagament": 5,  "producte": 3,  "talla": 3,  "quantitat": "1"}},
+  {"model": "Botiga.DetallsPagament", "pk": 6,  "fields": {"pagament": 7,  "producte": 1,  "talla": 1,  "quantitat": "1"}},
+  {"model": "Botiga.DetallsPagament", "pk": 7,  "fields": {"pagament": 7,  "producte": 8,  "talla": 4,  "quantitat": "1"}},
+  {"model": "Botiga.DetallsPagament", "pk": 8,  "fields": {"pagament": 9,  "producte": 6,  "talla": 3,  "quantitat": "1"}},
+  {"model": "Botiga.DetallsPagament", "pk": 9,  "fields": {"pagament": 10, "producte": 1,  "talla": 3,  "quantitat": "1"}},
+  {"model": "Botiga.DetallsPagament", "pk": 10, "fields": {"pagament": 12, "producte": 9,  "talla": 3,  "quantitat": "1"}},
+  {"model": "Botiga.DetallsPagament", "pk": 11, "fields": {"pagament": 14, "producte": 6,  "talla": 4,  "quantitat": "1"}},
+  {"model": "Botiga.DetallsPagament", "pk": 12, "fields": {"pagament": 15, "producte": 5,  "talla": 2,  "quantitat": "1"}}
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "model": "Botiga.Talles",
+    "pk": 1,
+    "fields": {
+      "nom": "XS"
+    }
+  },
+  {
+    "model": "Botiga.Talles",
+    "pk": 2,
+    "fields": {
+      "nom": "S"
+    }
+  },
+  {
+    "model": "Botiga.Talles",
+    "pk": 3,
+    "fields": {
+      "nom": "M"
+    }
+  },
+  {
+    "model": "Botiga.Talles",
+    "pk": 4,
+    "fields": {
+      "nom": "L"
+    }
+  },
+  {
+    "model": "Botiga.Talles",
+    "pk": 5,
+    "fields": {
+      "nom": "XL"
+    }
+  },
+  {
+    "model": "Botiga.Talles",
+    "pk": 6,
+    "fields": {
+      "nom": "XXL"
+    }
+  },
+  {
+    "model": "Botiga.Talles",
+    "pk": 7,
+    "fields": {
+      "nom": "XXXL"
+    }
+  }
+]

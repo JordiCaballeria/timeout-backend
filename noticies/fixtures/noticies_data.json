@@ -1,0 +1,194 @@
+[
+  {
+    "model": "noticies.noticies",
+    "pk": 1,
+    "fields": {
+      "titol": "Gran victòria del Sènior Masculí contra els Centaures",
+      "subtitol": "L'equip s'imposa per 34-12 en un partit de gran nivell",
+      "path_imatge": "noticies/imgRugby1.jpg",
+      "contingut": "El Sabadell Rugby Club va oferir ahir una exhibició de rugby de primer nivell davant una entrada excel·lent al nostre estadi. L'equip Sènior Masculí va superar els Centaures per un contundent 34-12 en un duel que va confirmar les bones sensacions de l'inici de temporada.\n\nEl primer temps va ser molt igualat, amb els visitants demostrant per què ocupen les primeres posicions de la taula. El nostre equip, però, va saber gestionar bé la pressió i va arribar al descans amb un avantatge de 17-6 gràcies a tres assaigs de gran factura.\n\nA la represa, el Sabadell RC va mostrar la seva superioritat física i tàctica. La defensa va ser impecable i l'atac va fluir amb naturalitat, anotant tres assaigs més que van sentenciar el partit. L'ambient a les grades va ser espectacular, amb el públic animant fins al darrer segon.\n\nL'entrenador de l'equip va destacar la gran feina col·lectiva: \"Estem molt contents amb la resposta dels jugadors. Hem treballat molt durant la setmana i avui s'ha notat. Ara a pensar en el proper partit.\"",
+      "esdeveniment": 1,
+      "autor": "Redacció SRC",
+      "fotograf": "Foto SRC",
+      "activa": 1,
+      "nomes_jugadors": 0,
+      "data_publicacio": "2025-09-21T10:00:00Z"
+    }
+  },
+  {
+    "model": "noticies.noticies",
+    "pk": 2,
+    "fields": {
+      "titol": "Victòria heroica a camp dels Gòtics",
+      "subtitol": "El Sènior Femení guanya per la mínima en un final de pel·lícula",
+      "path_imatge": "noticies/imgRugby1.jpg",
+      "contingut": "El Sènior Femení del Sabadell Rugby Club va aconseguir una victòria de gran mèrit a pista dels Gòtics, en un dels partits més intensos de la temporada. El resultat final, 18-21 favorable a les nostres jugadores, no reflecteix del tot la superioritat mostrada al segon temps.\n\nLes primeres fases del partit van ser difícils. Els Gòtics, embalats per la seva afició, van pressionar fort i van aconseguir un avantatge de 12-7 al descans. Les noies del cos tècnic, però, no van perdre la fe.\n\nA la represa, el Sabadell RC va canviar completament la dinàmica del joc. Millor organitzades en defensa i més dinàmiques en atac, van aconseguir capgirar el marcador en els darrers vint minuts amb dos assaigs brillants. La pilota al peu i la intensitat física van marcar la diferència.\n\nEl moment clau va arribar al minut 78, quan, amb el marcador empatat a 18, l'equip va aconseguir un assaig en el darrer joc. L'explosió d'alegria de les jugadores i el cos tècnic ho va dir tot. Una victòria que sap a molt i que reforça el lideratge provisional a la classificació.",
+      "esdeveniment": 2,
+      "autor": "Redacció SRC",
+      "fotograf": "Foto SRC",
+      "activa": 1,
+      "nomes_jugadors": 0,
+      "data_publicacio": "2025-09-28T10:30:00Z"
+    }
+  },
+  {
+    "model": "noticies.noticies",
+    "pk": 3,
+    "fields": {
+      "titol": "L'Escoleta inicia la temporada amb una festa de rugby",
+      "subtitol": "Més de 80 nens i nenes s'incorporen al club aquesta tardor",
+      "path_imatge": "noticies/imgRugby2.jpg",
+      "contingut": "Dissabte passat, el camp del Sabadell Rugby Club es va convertir en un espai de joc, aprenentatge i diversió per als més de 80 nens i nenes que s'incorporen a l'Escoleta aquesta temporada. La jornada de benvinguda va reunir famílies, jugadors veterans i el cos tècnic en un ambient festiu inoblidable.\n\nL'acte va arrencar a les 10 del matí amb una presentació dels entrenadors de cada categoria, des dels Linxs (Sub 6) fins als Cadets (Sub 18). Cada grup va poder fer les primeres activitats introductòries al rugby adaptades a la seva edat: jocs de tocs, circuits d'habilitat i les primeres rucks en miniatura.\n\nEls pares i mares presents van poder conèixer de primera mà la filosofia del club, basada en el respecte, l'esforç i la fraternitat, valors inherents a l'esport del rugby. La junta directiva va aprofitar l'ocasió per presentar les novetats de la temporada, entre les quals destaca la nova equipació i la renovació de les instal·lacions del vestidor.\n\nLa jornada es va tancar amb un pica-pica compartit on grans i petits van poder intercanviar impressions. El president del club va voler transmetre un missatge clar: \"Al Sabadell Rugby Club tothom hi és benvingut, perquè el rugby és un esport per a totes les edats i orígens.\"",
+      "esdeveniment": 10,
+      "autor": "Redacció SRC",
+      "fotograf": "Foto SRC",
+      "activa": 1,
+      "nomes_jugadors": 0,
+      "data_publicacio": "2025-09-14T12:00:00Z"
+    }
+  },
+  {
+    "model": "noticies.noticies",
+    "pk": 4,
+    "fields": {
+      "titol": "Temporada 2030-2031: objectius i novetats del club",
+      "subtitol": "El club afronta el curs amb noves incorporacions i il·lusió renovada",
+      "path_imatge": "noticies/imgRugby3.jpg",
+      "contingut": "El Sabadell Rugby Club ha presentat oficialment els objectius i les novetats per a la temporada 2030-2031, una campanya que el club afronta amb molta il·lusió i un projecte esportiu ambiciós tant en la secció masculina com en la femenina.\n\nEn el pla esportiu, els equips Sènior han incorporat cinc nous jugadors i jugadores procedents d'altres clubs de la divisió. L'equip tècnic, liderat pel mateix cos tècnic de la temporada anterior, ha treballat intensament durant la pretemporada per integrar els nous fitxatges i consolidar un estil de joc basat en la intensitat i el joc obert.\n\nQuant a les categories inferiors, l'Escoleta creix any rere any i consolida el Sabadell RC com un referent en la formació de jugadors joves al Vallès. Enguany s'han creat dues noves categories per donar resposta a la demanda creixent de famílies interessades en el rugby.\n\nEl club també presenta millores en les instal·lacions: nous vestuaris renovats, millora del sistema d'il·luminació del camp i una nova xarxa de seguretat perimetral. Totes aquestes millores han estat possibles gràcies a la implicació dels socis i el suport dels patrocinadors.\n\nL'objectiu esportiu és clar: lluitar pel títol de la Divisió d'Honor i consolidar el Sènior Femení entre els millors equips de la categoria.",
+      "esdeveniment": null,
+      "autor": "Redacció SRC",
+      "fotograf": "Foto SRC",
+      "activa": 1,
+      "nomes_jugadors": 0,
+      "data_publicacio": "2025-09-01T09:00:00Z"
+    }
+  },
+  {
+    "model": "noticies.noticies",
+    "pk": 5,
+    "fields": {
+      "titol": "El Sabadell RC s'uneix a la Marató de TV3",
+      "subtitol": "El club recapta més de 3.000 euros en activitats solidàries",
+      "path_imatge": "noticies/imgRugby5.jpeg",
+      "contingut": "Un any més, el Sabadell Rugby Club ha demostrat que el rugby és molt més que un esport. La nostra entitat s'ha sumat a la Marató de TV3 amb una sèrie d'activitats solidàries que han permès recaptar un total de 3.247 euros destinats a la investigació de les malalties minoritàries.\n\nEntre les activitats organitzades destaquen un torneig de rugby 7 benèfic amb la participació de sis clubs de la comarca, una cursa popular pels carrers de Sabadell amb la participació de més de 200 persones i una subhasta de samarretes firmades pels jugadors de l'equip Sènior.\n\nLa jornada va tenir un gran ressò a les xarxes socials, on el hashtag #SRCSolidari va aconseguir més de 5.000 impressions. Diverses famílies van compartir missatges d'agraïment al club per la seva implicació en una causa tan important.\n\nEl president del club va voler agrair la participació de tothom: \"Moments com aquests ens recorden per què fem allò que fem. El rugby ens ha ensenyat que junts som molt més forts, i avui ho hem demostrat una vegada més.\" El club es compromet a mantenir aquesta iniciativa solidària en les properes edicions de la Marató.",
+      "esdeveniment": null,
+      "autor": "Redacció SRC",
+      "fotograf": "Foto SRC",
+      "activa": 1,
+      "nomes_jugadors": 0,
+      "data_publicacio": "2025-10-20T09:00:00Z"
+    }
+  },
+  {
+    "model": "noticies.noticies",
+    "pk": 6,
+    "fields": {
+      "titol": "El SRC es prepara per la Copa del Rei amb baixes importants",
+      "subtitol": "L'equip treballa per arribar en les millors condicions al torneig estatal",
+      "path_imatge": "noticies/imgRugby6.jpg",
+      "contingut": "La Copa del Rei de Rugby s'acosta i el Sabadell Rugby Club intensifica la preparació, tot i haver de gestionar les baixes per lesió de tres jugadors titulars de l'equip Sènior Masculí. L'equip tècnic treballa per trobar les millors solucions i arribar en condicions òptimes al torneig estatal.\n\nLes baixes de la darrera setmana han obligat el cos tècnic a recórrer a jugadors del filial i a ajustar els esquemes tàctics. Malgrat les circumstàncies, l'ambient al vestuari és positiu i la plantilla afronta el repte amb actitud.\n\nL'entrenador va comparèixer davant dels mitjans per analitzar la situació: \"Evidentment no és la situació ideal, però tenim un grup de jugadors comprometits i amb talent. Haurem de ser intel·ligents i jugar com a equip. Crec en els jugadors que tenim disponibles.\"\n\nEl Sabadell RC s'enfrontarà en primera ronda a un equip de Madrid que la temporada passada va arribar fins a les semifinals. Serà un gran repte, però l'objectiu és clar: passar de ronda i seguir creixent en el panorama estatal del rugby.\n\nLes entrades per al partit de Copa ja estan a la venda a la botiga del club i a través de la nostra web. Us animem a tots a acompanyar l'equip en aquest repte especial.",
+      "esdeveniment": null,
+      "autor": "Redacció SRC",
+      "fotograf": "Foto SRC",
+      "activa": 1,
+      "nomes_jugadors": 0,
+      "data_publicacio": "2025-11-20T09:00:00Z"
+    }
+  },
+  {
+    "model": "noticies.noticies",
+    "pk": 7,
+    "fields": {
+      "titol": "Victòria del Sènior Femení contra el RC Martorell (28-15)",
+      "subtitol": "Un hat-trick en la segona part decideix un partit molt disputat",
+      "path_imatge": "noticies/imgRugby1.jpg",
+      "contingut": "El Sènior Femení del Sabadell Rugby Club va superar el RC Martorell per 28-15 en un emocionant partit que es va decidir a la segona meitat. Les nostres jugadores van realitzar un inici de partit brilliant i van arribar al descans amb un avantatge còmode de 21-6.\n\nAl segon temps, el Martorell va reaccionar i va reduir distàncies fins al 21-15, generant moments de tensió al banc local. Però l'equip va saber mantenir la serenitat i, en els darrers deu minuts, va culminar la remontada rival amb dos assaigs que van tancar el marcador en el 28-15 definitiu.\n\nLa figura del partit va ser la migmeitat de l'equip, autora de tres assaigs i una actuació molt completa tant en atac com en defensa. El cos tècnic, satisfet amb el resultat, va volar lloar la resposta de l'equip en els moments difícils.\n\nAmb aquesta victòria, el Sènior Femení consolida la tercera posició a la classificació i s'acosta als llocs de privilegi. El proper compromís serà el diumenge vinent, en un desplaçament a Castelldefels que es presenta com un duel molt atractiu.",
+      "esdeveniment": 3,
+      "autor": "Redacció SRC",
+      "fotograf": "Foto SRC",
+      "activa": 1,
+      "nomes_jugadors": 0,
+      "data_publicacio": "2025-10-06T11:00:00Z"
+    }
+  },
+  {
+    "model": "noticies.noticies",
+    "pk": 8,
+    "fields": {
+      "titol": "El Sènior Masculí domina el derbi contra l'Anoia RC (41-7)",
+      "subtitol": "Una primera part perfecta encamina una victòria contundent",
+      "path_imatge": "noticies/imgRugby8.jpg",
+      "contingut": "Ja és oficial: el Sènior Masculí del Sabadell Rugby Club és el líder indiscutible de la Divisió d'Honor. La victòria per 41-7 contra l'Anoia Rugby Club, en un dels derbis més esperats de la temporada, ho confirma. Un resultat clar que no admet discussió.\n\nDes del primer moment, el Sabadell RC va imposar el seu ritme i la seva físic. Els primers vint minuts van ser un recital de rugby: tres assaigs sense resposta i un control absolut de la pilota que va deixar gelada la graderia visitant. Al descans, el marcador ja era prou eloqüent: 27-0.\n\nLa represa va ser un tràmit. L'Anoia RC va aconseguir reduir la diferència amb un assaig de prestigi, però el Sabadell va continuar sumant punts sense forçar massa. El resultat final, 41-7, és el reflex d'una superioritat clara i contundent.\n\nDes de la junta directiva s'ha volgut felicitar tota la plantilla, el cos tècnic i l'afició que va omplir les grades. \"Partits com avui fan que tot l'esforç valgui la pena\", va declarar el president del club. La propera parada: la gran final del mes de maig.",
+      "esdeveniment": 7,
+      "autor": "Redacció SRC",
+      "fotograf": "Foto SRC",
+      "activa": 1,
+      "nomes_jugadors": 0,
+      "data_publicacio": "2025-11-10T11:00:00Z"
+    }
+  },
+  {
+    "model": "noticies.noticies",
+    "pk": 9,
+    "fields": {
+      "titol": "Assemblea de Socis: el club presenta els comptes i el projecte 2031",
+      "subtitol": "Rècord de participació amb 147 socis presents a la reunió anual",
+      "path_imatge": "noticies/imgRugby3.jpg",
+      "contingut": "L'Assemblea General de Socis del Sabadell Rugby Club va registrar ahir un rècord de participació, amb 147 socis presents a la sala d'actes del club. L'acte, celebrat en un ambient cordial i constructiu, va servir per presentar els comptes de la temporada i el pla de futur per al 2031.\n\nEl tresorer del club va presentar uns comptes sanejats, amb un superàvit de 12.000 euros fruit de la bona gestió econòmica, l'augment del nombre de socis i el suport dels patrocinadors. Els ingressos procedents de la venda d'entrades i la botiga oficial han experimentat un increment del 23% respecte a l'any anterior.\n\nEl punt més debatut va ser la proposta d'ampliació de les instal·lacions, que inclou la construcció d'una graderia coberta amb capacitat per a 300 persones i la millora dels vestidors. El projecte, pressupostat en 180.000 euros, va rebre el suport de la majoria dels socis presents.\n\nFinalment, es va procedir a la renovació parcial de la junta directiva. La nova composició manté el president actual al capdavant del club per dos anys més, amb el suport del 78% dels socis votants. \"Treballarem per fer del Sabadell RC el club de referència del rugby català\", va prometre en el seu discurs de tancament.",
+      "esdeveniment": 14,
+      "autor": "Redacció SRC",
+      "fotograf": "Foto SRC",
+      "activa": 1,
+      "nomes_jugadors": 0,
+      "data_publicacio": "2025-12-15T10:00:00Z"
+    }
+  },
+  {
+    "model": "noticies.noticies",
+    "pk": 10,
+    "fields": {
+      "titol": "Renovació de les instal·lacions: el club anuncia un gran projecte",
+      "subtitol": "Noves grades, millors vestidors i un camp en perfectes condicions per al 2031",
+      "path_imatge": "noticies/imgRugby4.jpeg",
+      "contingut": "El Sabadell Rugby Club ha anunciat un ambiciós pla de renovació de les seves instal·lacions que transformarà el camp de joc durant els propers mesos. El projecte, aprovat per l'Assemblea de Socis, té com a objectiu convertir el nostre recinte en un dels millors camps de rugby de Catalunya.\n\nLa primera fase inclou la construcció d'una graderia coberta al costat est del camp, amb capacitat per a 300 espectadors. Aquesta millora permetrà que els aficionats puguin gaudir dels partits en condicions molt millors, especialment durant els mesos d'hivern.\n\nEn paral·lel, s'iniciaran les obres de renovació dels vestidors, que es dotaran de noves dutxes, millor il·luminació i zones de recuperació per als esportistes. Els vestidors dels equips visitants també seran reformats per garantir les condicions adequades per a tots els equips que visiten el nostre camp.\n\nFinalment, la gespa del camp serà substituïda per una nova gespa artificial d'última generació, homologada per la Federació Catalana de Rugby. Aquesta millora permetrà utilitzar el camp en qualsevol condició meteorològica i reduirà els costos de manteniment a llarg termini.\n\nLes obres s'iniciaran el proper gener i s'espera que estiguin finalitzades abans de l'inici de la temporada 2031-2032. Durant aquest període, l'equip podrà seguir jugant els seus partits en el camp actual.",
+      "esdeveniment": null,
+      "autor": "Redacció SRC",
+      "fotograf": "Foto SRC",
+      "activa": 1,
+      "nomes_jugadors": 0,
+      "data_publicacio": "2025-12-20T09:00:00Z"
+    }
+  },
+  {
+    "model": "noticies.noticies",
+    "pk": 11,
+    "fields": {
+      "titol": "Entrenament obert al públic: vine a veure com treballa el primer equip",
+      "subtitol": "El Sènior Masculí obre les portes del camp el proper dimarts",
+      "path_imatge": "noticies/imgRugby2.jpg",
+      "contingut": "El Sabadell Rugby Club convida tots els aficionats, simpatitzants i curiosos a assistir a una sessió d'entrenament oberta al públic del Sènior Masculí. L'activitat es realitzarà el proper dimarts al nostre camp i és totalment gratuïta i oberta a tothom.\n\nDurant la sessió, els assistents podran observar de prop com treballa l'equip durant la setmana, les dinàmiques d'entrenament, les rutines tàctiques i el dia a dia d'un equip de rugby d'alt nivell. A més, al final de l'entrenament hi haurà un torn de preguntes i respostes amb alguns jugadors i membres del cos tècnic.\n\nL'entrenament obert forma part de la iniciativa del club per apropar el rugby a la ciutadania de Sabadell i el Vallès. Des del club creiem que el rugby és un esport que enganxa quan se'l veu de prop, i per això volem donar l'oportunitat a tothom de viure l'experiència.\n\nL'acte és especialment recomanat per a escoles i grups que vulguin descobrir el rugby. El club posarà a disposició dels grups que ho sol·licitin monitors per fer una introducció a l'esport per als més joves. Per a reserves de grup, podeu contactar amb el club a través del formulari de contacte de la web.",
+      "esdeveniment": 11,
+      "autor": "Redacció SRC",
+      "fotograf": "Foto SRC",
+      "activa": 1,
+      "nomes_jugadors": 0,
+      "data_publicacio": "2025-09-12T09:00:00Z"
+    }
+  },
+  {
+    "model": "noticies.noticies",
+    "pk": 12,
+    "fields": {
+      "titol": "La gran final de temporada: entrades ja a la venda",
+      "subtitol": "El 24 de maig és la cita més important de l'any per al Sabadell RC",
+      "path_imatge": "noticies/imgRugby3.jpg",
+      "contingut": "La gran final de temporada ja és aquí. El Sabadell Rugby Club s'ha classificat per disputar el partit més important de la temporada 2030-2031, una final apoteòsica que enfrontarà el nostre Sènior Masculí contra el RC Sabadell, el club rival de la ciutat, en una cita que promet ser històrica.\n\nLes entrades per a la gran final ja estan a la venda. El preu general és de 14,99 euros, amb un preu especial de 4,99 euros per als socis del club. Donat l'interès que ha generat el partit, es recomana no esperar per adquirir les entrades, ja que es preveu que l'aforament s'esgoti en pocs dies.\n\nEl camp estarà engalanat per a l'ocasió, amb una zona VIP, servei de càtering, actuació musical prèvia al partit i un espai infantil per als més petits de la família. La jornada promet ser una festa del rugby que anirà molt més enllà del que passi al terreny de joc.\n\nEl president del club ha volgut fer una crida a l'afició: \"Necessitem que tot Sabadell estigui amb nosaltres. Hem treballat molt dur tota la temporada per arribar aquí i mereixem tenir el millor suport possible a les grades. Veniu i feu que el camp tremoli.\"\n\nLes entrades es poden adquirir a través d'aquesta mateixa web, a la secretaria del club o als punts de venda habilitats als establiments dels nostres patrocinadors.",
+      "esdeveniment": 13,
+      "autor": "Redacció SRC",
+      "fotograf": "Foto SRC",
+      "activa": 1,
+      "nomes_jugadors": 0,
+      "data_publicacio": "2026-05-10T09:00:00Z"
+    }
+  }
+]

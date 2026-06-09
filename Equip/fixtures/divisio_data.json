@@ -1,0 +1,16 @@
+[
+  {
+    "model": "Equip.Divisio",
+    "pk": 1,
+    "fields": {
+      "nom": "Divisió d'Honor"
+    }
+  },
+  {
+    "model": "Equip.Divisio",
+    "pk": 2,
+    "fields": {
+      "nom": "Divisió d'Honor B"
+    }
+  }
+]

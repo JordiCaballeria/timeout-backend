@@ -1,0 +1,242 @@
+[
+  {
+    "model": "Esdeveniment.Esdeveniment",
+    "pk": 1,
+    "fields": {
+      "nom": "Sènior Masculí VS Centaures RC",
+      "descripcio": "Gran partit de la primera jornada de lliga entre el Sabadell RC i els Centaures, actuals andorrans de la Divisió d'Honor. Un enfrontament directe pel lideratge de la classificació que promet emocions fortes. L'estadi esperarà una entrada excel·lent. Les entrades per als socis inclouen accés a la zona de tercer temps posterior al partit.",
+      "tipusEsdeveniment": 1,
+      "equip": 1,
+      "data": "2030-09-20T11:00:00.000Z",
+      "num_entrades": 500,
+      "num_entrades_disponibles": 312,
+      "preu_entrades": 9.99,
+      "preu_entrades_soci": 2.99,
+      "location": "Estadi del Sabadell Rugby Club, Carrer del Rugby s/n, Sabadell"
+    }
+  },
+  {
+    "model": "Esdeveniment.Esdeveniment",
+    "pk": 2,
+    "fields": {
+      "nom": "Gòtics VS Sènior Femení",
+      "descripcio": "Desplaçament del nostre equip Sènior Femení al camp dels Gòtics de Barcelona. Un duel directe pel lideratge de la classificació que enfrontarà els dos millors equips de la categoria. Les nostres jugadores afronten el repte amb la moral alta després de l'excel·lent inici de temporada. Entrada gratuïta per a tots els seguidors.",
+      "tipusEsdeveniment": 2,
+      "equip": 2,
+      "data": "2030-09-27T12:00:00.000Z",
+      "num_entrades": 0,
+      "num_entrades_disponibles": 0,
+      "preu_entrades": 0,
+      "preu_entrades_soci": 0,
+      "location": "Camp dels Gòtics, Carrer del Rugbi, 5, Barcelona"
+    }
+  },
+  {
+    "model": "Esdeveniment.Esdeveniment",
+    "pk": 3,
+    "fields": {
+      "nom": "Sènior Femení VS RC Martorell",
+      "descripcio": "Partit de lliga de la tercera jornada entre el nostre Sènior Femení i el RC Martorell. Les visitants, que ocupen el sisè lloc de la classificació, vénen amb ganes de fer una bona actuació a Sabadell. Esperem una tarda de rugby de qualitat. Accés per a cadires de rodes disponible. El camp obrirà les portes dues hores abans del partit.",
+      "tipusEsdeveniment": 1,
+      "equip": 2,
+      "data": "2030-10-05T16:00:00.000Z",
+      "num_entrades": 700,
+      "num_entrades_disponibles": 420,
+      "preu_entrades": 12.99,
+      "preu_entrades_soci": 3.99,
+      "location": "Estadi del Sabadell Rugby Club, Carrer del Rugby s/n, Sabadell"
+    }
+  },
+  {
+    "model": "Esdeveniment.Esdeveniment",
+    "pk": 4,
+    "fields": {
+      "nom": "Sènior Masculí VS CR Alella",
+      "descripcio": "Partit ajornat de la primera jornada que finalment es disputarà amb entrada gratuïta per a tot el públic. El CR Alella és un equip consolidat a la Divisió d'Honor i promet oferir un bon espectacle. Gran oportunitat per descobrir el rugby en directe sense cost. Aprofita-ho i porta la família!",
+      "tipusEsdeveniment": 1,
+      "equip": 1,
+      "data": "2030-10-12T16:00:00.000Z",
+      "num_entrades": 0,
+      "num_entrades_disponibles": 0,
+      "preu_entrades": 0,
+      "preu_entrades_soci": 0,
+      "location": "Estadi del Sabadell Rugby Club, Carrer del Rugby s/n, Sabadell"
+    }
+  },
+  {
+    "model": "Esdeveniment.Esdeveniment",
+    "pk": 5,
+    "fields": {
+      "nom": "Sènior Femení VS Manresa RC",
+      "descripcio": "Duel de màxima rivalitat entre el Sènior Femení del Sabadell RC i el Manresa RC. Les dos equips arriben en un molt bon moment de forma i la classificació és molt igualada. Pronostic totalment obert. Les entrades estan volant, no esperis per aconseguir la teva plaça a les grades. Animem les nostres noies!",
+      "tipusEsdeveniment": 1,
+      "equip": 2,
+      "data": "2030-10-19T16:00:00.000Z",
+      "num_entrades": 700,
+      "num_entrades_disponibles": 245,
+      "preu_entrades": 8.99,
+      "preu_entrades_soci": 2.50,
+      "location": "Estadi del Sabadell Rugby Club, Carrer del Rugby s/n, Sabadell"
+    }
+  },
+  {
+    "model": "Esdeveniment.Esdeveniment",
+    "pk": 6,
+    "fields": {
+      "nom": "Sènior Femení VS Castelldefels RUC",
+      "descripcio": "El Castelldefels Rugby Union Club visita Sabadell en el que promet ser un dels partits de la temporada. Situat entre els primers classificats, les visitants comptaran amb el suport d'una nombrosa expedició de seguidors. El nostre equip prepara una estratègia específica per a aquest duel. Ambient garantit a les grades!",
+      "tipusEsdeveniment": 1,
+      "equip": 2,
+      "data": "2030-11-02T17:00:00.000Z",
+      "num_entrades": 600,
+      "num_entrades_disponibles": 388,
+      "preu_entrades": 9.99,
+      "preu_entrades_soci": 2.99,
+      "location": "Estadi del Sabadell Rugby Club, Carrer del Rugby s/n, Sabadell"
+    }
+  },
+  {
+    "model": "Esdeveniment.Esdeveniment",
+    "pk": 7,
+    "fields": {
+      "nom": "Sènior Masculí VS Anoia Rugby Club",
+      "descripcio": "El gran derbi del Vallès! L'Anoia Rugby Club és un dels rivals històrics del Sabadell RC i el partit sempre genera una expectació especial. Ambdós equips arriben amb bones sensacions i la classificació és molt igualada. Les entrades ja s'estan venent ràpid, assegura la teva plaça ara. Menors de 12 anys, entrada gratuïta acompanyats d'un adult.",
+      "tipusEsdeveniment": 1,
+      "equip": 1,
+      "data": "2030-11-09T16:00:00.000Z",
+      "num_entrades": 700,
+      "num_entrades_disponibles": 521,
+      "preu_entrades": 6.99,
+      "preu_entrades_soci": 1.99,
+      "location": "Estadi del Sabadell Rugby Club, Carrer del Rugby s/n, Sabadell"
+    }
+  },
+  {
+    "model": "Esdeveniment.Esdeveniment",
+    "pk": 8,
+    "fields": {
+      "nom": "Tercer Temps: Sabadell RC vs Centaures",
+      "descripcio": "Acte de germanor posterior al partit contra els Centaures. Com mana la tradició del rugby, els dos equips compartiran menjar i begudes en un ambient festiu i de respecte mutu. Es servirà un buffet complet amb productes locals. L'acte és obert a jugadors, cos tècnic, directius i simpatitzants d'ambdós clubs. Vine a viure l'esperit del rugby!",
+      "tipusEsdeveniment": 3,
+      "equip": 1,
+      "data": "2030-09-20T22:00:00.000Z",
+      "num_entrades": 0,
+      "num_entrades_disponibles": 0,
+      "preu_entrades": 0,
+      "preu_entrades_soci": 0,
+      "location": "Bar i Sala Social del Sabadell Rugby Club"
+    }
+  },
+  {
+    "model": "Esdeveniment.Esdeveniment",
+    "pk": 9,
+    "fields": {
+      "nom": "Tercer Temps: Sabadell RC Femení vs Gòtics",
+      "descripcio": "Acte de germanor posterior al desplaçament a Barcelona. Les jugadores d'ambdós equips compartiran un sopar informal al local dels Gòtics. Una oportunitat única per crear lligams d'amistat entre clubs i enfortir la comunitat del rugby femení a Catalunya. L'esperit del rugby en el seu màxim esplendor.",
+      "tipusEsdeveniment": 3,
+      "equip": 2,
+      "data": "2030-09-27T22:00:00.000Z",
+      "num_entrades": 0,
+      "num_entrades_disponibles": 0,
+      "preu_entrades": 0,
+      "preu_entrades_soci": 0,
+      "location": "Local Social dels Gòtics, Barcelona"
+    }
+  },
+  {
+    "model": "Esdeveniment.Esdeveniment",
+    "pk": 10,
+    "fields": {
+      "nom": "Jornada de Benvinguda a l'Escoleta 2030",
+      "descripcio": "Inici de temporada per als més petits del club! La jornada de benvinguda reunirà tots els nens i nenes de les categories Linxs (Sub 6), Xapats (Sub 8) i Pre-Benjamí (Sub 10) per descobrir el rugby en un ambient festiu. Hi haurà activitats lúdiques, jocs esportius i merienda per a tothom. Pares i mares, sou molt benvinguts!",
+      "tipusEsdeveniment": 5,
+      "equip": 3,
+      "data": "2030-09-13T11:00:00.000Z",
+      "num_entrades": 0,
+      "num_entrades_disponibles": 0,
+      "preu_entrades": 0,
+      "preu_entrades_soci": 0,
+      "location": "Camp de Rugby, Sabadell — Zona infantil"
+    }
+  },
+  {
+    "model": "Esdeveniment.Esdeveniment",
+    "pk": 11,
+    "fields": {
+      "nom": "Entrenament Obert Sènior Masculí",
+      "descripcio": "El Sènior Masculí obre les portes del camp a tots els aficionats que vulguin viure de prop com treballa l'equip. La sessió d'entrenament inclourà treballs tàctics, exercicis específics de rugbi i una petita partida final. Al acabar, els jugadors estaran disponibles per a fotos i signatures. Entrada totalment gratuïta. Et esperem!",
+      "tipusEsdeveniment": 4,
+      "equip": 1,
+      "data": "2030-09-16T19:30:00.000Z",
+      "num_entrades": 0,
+      "num_entrades_disponibles": 0,
+      "preu_entrades": 0,
+      "preu_entrades_soci": 0,
+      "location": "Camp Principal, Sabadell Rugby Club"
+    }
+  },
+  {
+    "model": "Esdeveniment.Esdeveniment",
+    "pk": 12,
+    "fields": {
+      "nom": "Entrenament Tàctic Sènior Femení",
+      "descripcio": "Sessió d'entrenament tàctic del Sènior Femení de cara al proper partit de lliga. Assistència obligatòria per a totes les jugadores convocades. Es treballaran les línies de defensa avançada i les jugades a pilota aturada. El cos tècnic demanarà màxima concentració i intensitat. Porteu l'equipació completa i proteccions.",
+      "tipusEsdeveniment": 4,
+      "equip": 2,
+      "data": "2030-09-18T19:30:00.000Z",
+      "num_entrades": 0,
+      "num_entrades_disponibles": 0,
+      "preu_entrades": 0,
+      "preu_entrades_soci": 0,
+      "location": "Camp Principal, Sabadell Rugby Club"
+    }
+  },
+  {
+    "model": "Esdeveniment.Esdeveniment",
+    "pk": 13,
+    "fields": {
+      "nom": "GRAN FINAL: SRC Sènior Masculí VS RC Sabadell",
+      "descripcio": "El partit de l'any! El Sabadell RC i el RC Sabadell es juguen el campionat de la Divisió d'Honor en la gran final 2030-2031. Un derbi únic entre els dos grans de la ciutat. L'estadi obrirà tres hores abans amb food trucks i música en directe. No et quedis sense la teva entrada, les places són limitades!",
+      "tipusEsdeveniment": 1,
+      "equip": 1,
+      "data": "2031-05-24T17:00:00.000Z",
+      "num_entrades": 1000,
+      "num_entrades_disponibles": 734,
+      "preu_entrades": 14.99,
+      "preu_entrades_soci": 4.99,
+      "location": "Estadi del Sabadell Rugby Club, Carrer del Rugby s/n, Sabadell"
+    }
+  },
+  {
+    "model": "Esdeveniment.Esdeveniment",
+    "pk": 14,
+    "fields": {
+      "nom": "Assemblea General de Socis 2030",
+      "descripcio": "Reunió anual ordinària de tots els socis del Sabadell Rugby Club. L'ordre del dia inclou: aprovació de l'acta de la reunió anterior, presentació de l'estat de comptes de la temporada, informe de la junta directiva, presentació del pla estratègic 2031-2033, renovació parcial de la junta directiva i precs i preguntes. La participació dels socis és fonamental per al bon govern del club.",
+      "tipusEsdeveniment": 3,
+      "equip": null,
+      "data": "2030-12-14T18:00:00.000Z",
+      "num_entrades": 0,
+      "num_entrades_disponibles": 0,
+      "preu_entrades": 0,
+      "preu_entrades_soci": 0,
+      "location": "Sala d'Actes del Sabadell Rugby Club — aforament màxim 200 persones"
+    }
+  },
+  {
+    "model": "Esdeveniment.Esdeveniment",
+    "pk": 15,
+    "fields": {
+      "nom": "Sènior Masculí VS Penedès RC",
+      "descripcio": "Segon derbi extracomarcal de la temporada contra el Penedès RC, un equip que ha estat reforçat considerablement per a aquesta temporada. L'any passat, el Penedès va guanyar en el desplaçament per tres punts de diferència i el nostre equip té pendent la revenja. La previsió meteorològica és bona i s'espera una gran entrada al camp. Veniu amb la vostra millor veu!",
+      "tipusEsdeveniment": 1,
+      "equip": 1,
+      "data": "2030-12-07T16:00:00.000Z",
+      "num_entrades": 500,
+      "num_entrades_disponibles": 499,
+      "preu_entrades": 9.99,
+      "preu_entrades_soci": 2.99,
+      "location": "Estadi del Sabadell Rugby Club, Carrer del Rugby s/n, Sabadell"
+    }
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "model": "Botiga.Producte",
+    "pk": 1,
+    "fields": {
+      "preu": 19.99,
+      "preu_soci": 14.99,
+      "nom": "Samarreta oficial Sabadell Rugby Club",
+      "descripcio": "Samarreta oficial del Sabadell Rugby Club, temporada 2023. Fabricada amb materials de primera qualitat i disseny exclusiu del club. Porta l'escut del club al pit.",
+      "tipusProducte": 1
+    }
+  },
+  {
+    "model": "Botiga.Producte",
+    "pk": 2,
+    "fields": {
+      "preu": 29.99,
+      "preu_soci": 24.99,
+      "nom": "Pantaló oficial Sabadell Rugby Club",
+      "descripcio": "Pantaló oficial del Sabadell Rugby Club, temporada 2023. Fabricat amb materials de primera qualitat i disseny exclusiu del club. Porta l'escut del club a la part inferior de la cama.",
+      "tipusProducte": 2
+    }
+  },
+  {
+    "model": "Botiga.Producte",
+    "pk": 3,
+    "fields": {
+      "preu": 39.99,
+      "preu_soci": 34.99,
+      "nom": "Samarreta de jugador oficial Sabadell Rugby Club",
+      "descripcio": "Samarreta de jugador oficial del Sabadell Rugby Club, temporada 2023. Fabricada amb materials de primera qualitat i disseny exclusiu del club. Porta l'escut del club al pit i el número i nom del jugador a l'esquena.",
+      "tipusProducte": 4
+    }
+  },
+  {
+    "model": "Botiga.Producte",
+    "pk": 4,
+    "fields": {
+      "preu": 59.99,
+      "preu_soci": 54.99,
+      "nom": "Pantaló de jugador oficial Sabadell Rugby Club",
+      "descripcio": "Pantaló de jugador oficial del Sabadell Rugby Club, temporada 2023. Fabricat amb materials de primera qualitat i disseny exclusiu del club. Porta l'escut del club a la part inferior de la cama i el número i nom del jugador a la part posterior.",
+      "tipusProducte": 5
+    }
+  },
+  {
+    "model": "Botiga.Producte",
+    "pk": 5,
+    "fields": {
+      "preu": 29.99,
+      "preu_soci": 24.99,
+      "nom": "Dessuadora oficial Sabadell Rugby Club",
+      "descripcio": "Dessuadora oficial del Sabadell Rugby Club, temporada 2023. Fabricada amb materials de primera qualitat i disseny exclusiu del club. Porta l'escut del club al pit.",
+      "tipusProducte": 6
+    }
+  },
+  {
+    "model": "Botiga.Producte",
+    "pk": 6,
+    "fields": {
+      "preu": 49.99,
+      "preu_soci": 44.99,
+      "nom": "Polo oficial Sabadell Rugby Club",
+      "descripcio": "Polo oficial del Sabadell",
+      "tipusProducte": 3
+    }
+  },
+  {
+    "model": "Botiga.Producte",
+    "pk": 7,
+    "fields": {
+      "preu": 19.99,
+      "preu_soci": 14.99,
+      "nom": "Gorra oficial Sabadell Rugby Club",
+      "descripcio": "Gorra oficial del Sabadell Rugby Club, temporada 2023. Fabricada amb materials de primera qualitat i disseny exclusiu del club. Porta l'escut del club a la part frontal.",
+      "tipusProducte": 7
+    }
+  },
+  {
+    "model": "Botiga.Producte",
+    "pk": 8,
+    "fields": {
+      "preu": 69.99,
+      "preu_soci": 64.99,
+      "nom": "Jaqueta oficial Sabadell Rugby Club",
+      "descripcio": "Jaqueta oficial del Sabadell Rugby Club, temporada 2023. Fabricada amb materials de primera qualitat i disseny exclusiu del club. Porta l'escut del club al pit i la inscripció del nom del club a l'esquena.",
+      "tipusProducte": 7
+    }
+  },
+  {
+    "model": "Botiga.Producte",
+    "pk": 9,
+    "fields": {
+      "preu": 39.99,
+      "preu_soci": 34.99,
+      "nom": "Samarreta jugador oficial Sabadell Rugby Club",
+      "descripcio": "Samarreta oficial de jugador del Sabadell Rugby Club, temporada 2023. Fabricada amb materials de primera qualitat i disseny exclusiu del club. Porta l'escut del club al pit i la inscripció del nom del club a l'esquena.",
+      "tipusProducte": 4
+    }
+  },
+  {
+    "model": "Botiga.Producte",
+    "pk": 10,
+    "fields": {
+      "preu": 24.99,
+      "preu_soci": 19.99,
+      "nom": "Pullover oficial Sabadell Rugby Club",
+      "descripcio": "Pullover oficial del Sabadell Rugby Club, temporada 2023. Fabricada amb materials de primera qualitat i disseny exclusiu del club. Porta l'escut del club al pit.",
+      "tipusProducte": 6
+    }
+  },
+  {
+    "model": "Botiga.Producte",
+    "pk": 11,
+    "fields": {
+      "preu": 59.99,
+      "preu_soci": 54.99,
+      "nom": "Pantaló jugador oficial Sabadell Rugby Club",
+      "descripcio": "Pantaló oficial de jugador del Sabadell Rugby Club, temporada 2023. Fabricada amb materials de primera qualitat i disseny exclusiu del club. Porta l'escut del club a la part inferior de la cama.",
+      "tipusProducte": 5
+    }
+  }
+]

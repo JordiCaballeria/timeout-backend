@@ -1,0 +1,10 @@
+[
+  {"model": "Botiga.Enviament", "pk": 1, "fields": {"pagament": 1,  "direccio": "Carrer Major, 15, 3r 2a, 08201 Sabadell",                           "estatenviament": 3}},
+  {"model": "Botiga.Enviament", "pk": 2, "fields": {"pagament": 2,  "direccio": "Avinguda Catalunya, 42, 1r 1a, 08202 Sabadell",                      "estatenviament": 3}},
+  {"model": "Botiga.Enviament", "pk": 3, "fields": {"pagament": 4,  "direccio": "Carrer Sant Pere, 8, Ent 1a, 08221 Terrassa",                         "estatenviament": 3}},
+  {"model": "Botiga.Enviament", "pk": 4, "fields": {"pagament": 5,  "direccio": "Passeig de la Creu Alta, 77, 2n 3a, 08205 Sabadell",                 "estatenviament": 2}},
+  {"model": "Botiga.Enviament", "pk": 5, "fields": {"pagament": 7,  "direccio": "Carrer de Gràcia, 23, 4t 2a, 08001 Barcelona",                       "estatenviament": 3}},
+  {"model": "Botiga.Enviament", "pk": 6, "fields": {"pagament": 9,  "direccio": "Carrer Nou, 5, Baix 1a, 08208 Sabadell",                             "estatenviament": 2}},
+  {"model": "Botiga.Enviament", "pk": 7, "fields": {"pagament": 14, "direccio": "Rambla del Passeig, 12, 5è 1a, 08203 Sabadell",                      "estatenviament": 1}},
+  {"model": "Botiga.Enviament", "pk": 8, "fields": {"pagament": 15, "direccio": "Carrer de l'Església, 3, 1r 2a, 08210 Barberà del Vallès",           "estatenviament": 2}}
+]

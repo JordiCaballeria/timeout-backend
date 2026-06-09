@@ -1,0 +1,298 @@
+[
+  {
+    "model": "User.RolUsuari",
+    "pk": 1,
+    "fields": {
+      "rol_id": 1,
+      "user_id": 1
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 2,
+    "fields": {
+      "rol_id": 1,
+      "user_id": 2
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 3,
+    "fields": {
+      "rol_id": 2,
+      "user_id": 3
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 4,
+    "fields": {
+      "rol_id": 3,
+      "user_id": 4
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 5,
+    "fields": {
+      "rol_id": 4,
+      "user_id": 4
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 6,
+    "fields": {
+      "rol_id": 4,
+      "user_id": 6
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 7,
+    "fields": {
+      "rol_id": 5,
+      "user_id": 7
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 8,
+    "fields": {
+      "rol_id": 5,
+      "user_id": 8
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 9,
+    "fields": {
+      "rol_id": 6,
+      "user_id": 9
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 10,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 16
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 11,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 17
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 12,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 19
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 13,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 23
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 14,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 25
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 15,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 27
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 16,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 29
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 17,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 31
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 18,
+    "fields": {
+      "rol_id": 6,
+      "user_id": 33
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 19,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 33
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 20,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 36
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 21,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 37
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 22,
+    "fields": {
+      "rol_id": 6,
+      "user_id": 38
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 23,
+    "fields": {
+      "rol_id": 6,
+      "user_id": 39
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 24,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 39
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 25,
+    "fields": {
+      "rol_id": 6,
+      "user_id": 40
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 26,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 41
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 27,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 41
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 28,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 43
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 29,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 44
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 30,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 47
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 31,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 49
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 32,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 50
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 33,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 52
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 34,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 54
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 35,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 57
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 36,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 59
+    }
+  },
+  {
+    "model": "User.RolUsuari",
+    "pk": 37,
+    "fields": {
+      "rol_id": 7,
+      "user_id": 60
+    }
+  }
+]

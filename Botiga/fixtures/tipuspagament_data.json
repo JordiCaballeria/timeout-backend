@@ -1,0 +1,23 @@
+[
+  {
+    "model": "Botiga.TipusPagament",
+    "pk": 1,
+    "fields": {
+      "nom": "Efectiu"
+    }
+  },
+  {
+    "model": "Botiga.TipusPagament",
+    "pk": 2,
+    "fields": {
+      "nom": "Targeta"
+    }
+  },
+  {
+    "model": "Botiga.TipusPagament",
+    "pk": 3,
+    "fields": {
+      "nom": "Stripe"
+    }
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "model": "Equip.Esport",
+    "pk": 1,
+    "fields": {
+      "nom": "Rugby"
+    }
+  }
+]

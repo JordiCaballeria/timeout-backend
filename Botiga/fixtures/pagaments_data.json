@@ -1,0 +1,22 @@
+[
+  {"model": "Botiga.Pagament", "pk": 1,  "fields": {"user": 13, "total": "19.99", "tipuspagament": 2}},
+  {"model": "Botiga.Pagament", "pk": 2,  "fields": {"user": 14, "total": "49.98", "tipuspagament": 3}},
+  {"model": "Botiga.Pagament", "pk": 3,  "fields": {"user": 15, "total": "9.99",  "tipuspagament": 1}},
+  {"model": "Botiga.Pagament", "pk": 4,  "fields": {"user": 22, "total": "29.99", "tipuspagament": 3}},
+  {"model": "Botiga.Pagament", "pk": 5,  "fields": {"user": 28, "total": "39.99", "tipuspagament": 2}},
+  {"model": "Botiga.Pagament", "pk": 6,  "fields": {"user": 35, "total": "9.99",  "tipuspagament": 1}},
+  {"model": "Botiga.Pagament", "pk": 7,  "fields": {"user": 45, "total": "89.98", "tipuspagament": 3}},
+  {"model": "Botiga.Pagament", "pk": 8,  "fields": {"user": 46, "total": "12.99", "tipuspagament": 2}},
+  {"model": "Botiga.Pagament", "pk": 9,  "fields": {"user": 51, "total": "49.99", "tipuspagament": 3}},
+  {"model": "Botiga.Pagament", "pk": 10, "fields": {"user": 53, "total": "19.99", "tipuspagament": 1}},
+  {"model": "Botiga.Pagament", "pk": 11, "fields": {"user": 55, "total": "9.99",  "tipuspagament": 2}},
+  {"model": "Botiga.Pagament", "pk": 12, "fields": {"user": 56, "total": "39.99", "tipuspagament": 3}},
+  {"model": "Botiga.Pagament", "pk": 13, "fields": {"user": 10, "total": "6.99",  "tipuspagament": 2}},
+  {"model": "Botiga.Pagament", "pk": 14, "fields": {"user": 11, "total": "49.99", "tipuspagament": 3}},
+  {"model": "Botiga.Pagament", "pk": 15, "fields": {"user": 12, "total": "29.99", "tipuspagament": 2}},
+  {"model": "Botiga.Pagament", "pk": 16, "fields": {"user": 18, "total": "9.99",  "tipuspagament": 3}},
+  {"model": "Botiga.Pagament", "pk": 17, "fields": {"user": 22, "total": "12.99", "tipuspagament": 3}},
+  {"model": "Botiga.Pagament", "pk": 18, "fields": {"user": 33, "total": "6.99",  "tipuspagament": 1}},
+  {"model": "Botiga.Pagament", "pk": 19, "fields": {"user": 36, "total": "14.99", "tipuspagament": 2}},
+  {"model": "Botiga.Pagament", "pk": 20, "fields": {"user": 39, "total": "9.99",  "tipuspagament": 3}}
+]

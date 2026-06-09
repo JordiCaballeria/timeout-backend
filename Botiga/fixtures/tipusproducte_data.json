@@ -1,0 +1,51 @@
+[
+  {
+    "model": "Botiga.TipusProducte",
+    "pk": 1,
+    "fields": {
+      "nom": "Samarreta"
+    }
+  },
+  {
+    "model": "Botiga.TipusProducte",
+    "pk": 2,
+    "fields": {
+      "nom": "Pantaló"
+    }
+  },
+  {
+    "model": "Botiga.TipusProducte",
+    "pk": 3,
+    "fields": {
+      "nom": "Polo"
+    }
+  },
+  {
+    "model": "Botiga.TipusProducte",
+    "pk": 4,
+    "fields": {
+      "nom": "Samarreta jugador"
+    }
+  },
+  {
+    "model": "Botiga.TipusProducte",
+    "pk": 5,
+    "fields": {
+      "nom": "Pantaló jugador"
+    }
+  },
+  {
+    "model": "Botiga.TipusProducte",
+    "pk": 6,
+    "fields": {
+      "nom": "Desuadora"
+    }
+  },
+  {
+    "model": "Botiga.TipusProducte",
+    "pk": 7,
+    "fields": {
+      "nom": "Altres"
+    }
+  }
+]

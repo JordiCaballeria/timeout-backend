@@ -1,0 +1,177 @@
+[
+  {
+    "model": "User.Permisos",
+    "pk": 1,
+    "fields": {
+      "nom": "VeureEquips"
+    }
+  },
+  {
+    "model": "User.Permisos",
+    "pk": 2,
+    "fields": {
+      "nom": "EditarEquips"
+    }
+  },
+  {
+    "model": "User.Permisos",
+    "pk": 3,
+    "fields": {
+      "nom": "VeureJugadors"
+    }
+  },
+  {
+    "model": "User.Permisos",
+    "pk": 4,
+    "fields": {
+      "nom": "EditarJugadors"
+    }
+  },
+  {
+    "model": "User.Permisos",
+    "pk": 5,
+    "fields": {
+      "nom": "VeureCompeticio"
+    }
+  },
+  {
+    "model": "User.Permisos",
+    "pk": 6,
+    "fields": {
+      "nom": "EditarCompeticio"
+    }
+  },
+  {
+    "model": "User.Permisos",
+    "pk": 7,
+    "fields": {
+      "nom": "VeureEsdeveniments"
+    }
+  },
+  {
+    "model": "User.Permisos",
+    "pk": 8,
+    "fields": {
+      "nom": "EditarEsdeveniments"
+    }
+  },
+  {
+    "model": "User.Permisos",
+    "pk": 9,
+    "fields": {
+      "nom": "VeureNoticies"
+    }
+  },
+  {
+    "model": "User.Permisos",
+    "pk": 10,
+    "fields": {
+      "nom": "EditarNoticies"
+    }
+  },
+  {
+    "model": "User.Permisos",
+    "pk": 11,
+    "fields": {
+      "nom": "VeureBotiga"
+    }
+  },
+  {
+    "model": "User.Permisos",
+    "pk": 12,
+    "fields": {
+      "nom": "EditarBotiga"
+    }
+  },
+  {
+    "model": "User.Permisos",
+    "pk": 13,
+    "fields": {
+      "nom": "VeureUsers"
+    }
+  },
+  {
+    "model": "User.Permisos",
+    "pk": 14,
+    "fields": {
+      "nom": "EditarUsers"
+    }
+  },
+  {
+    "model": "User.Permisos",
+    "pk": 15,
+    "fields": {
+      "nom": "VeureRols"
+    }
+  },
+  {
+    "model": "User.Permisos",
+    "pk": 16,
+    "fields": {
+      "nom": "EditarRols"
+    }
+  },
+   {
+    "model": "User.Permisos",
+    "pk": 17,
+    "fields": {
+      "nom": "EnviarMails"
+    }
+  },
+  {
+    "model": "User.Permisos",
+    "pk": 18,
+    "fields": {
+      "nom": "VeurePatrocinadors"
+    }
+  },
+  {
+    "model": "User.Permisos",
+    "pk": 19,
+    "fields": {
+      "nom": "EditarPatrocinadors"
+    }
+  },
+   {
+    "model": "User.Permisos",
+    "pk": 20,
+    "fields": {
+      "nom": "VeurePagaments"
+    }
+  },
+   {
+    "model": "User.Permisos",
+    "pk": 21,
+    "fields": {
+      "nom": "EditarPagaments"
+    }
+  },
+    {
+    "model": "User.Permisos",
+    "pk": 22,
+    "fields": {
+      "nom": "VeureEntrades"
+    }
+  },
+   {
+    "model": "User.Permisos",
+    "pk": 23,
+    "fields": {
+      "nom": "EditarEntrades"
+    }
+  },
+     {
+    "model": "User.Permisos",
+    "pk": 24,
+    "fields": {
+      "nom": "VeureEnviaments"
+    }
+  },
+   {
+    "model": "User.Permisos",
+    "pk": 25,
+    "fields": {
+      "nom": "EditarEnviaments"
+    }
+  }
+]

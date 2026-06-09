@@ -1,0 +1,23 @@
+[
+  {
+    "model": "Botiga.estatenviament",
+    "pk": 1,
+    "fields": {
+      "nom": "Pendent d'enviar"
+    }
+  },
+  {
+    "model": "Botiga.estatenviament",
+    "pk": 2,
+    "fields": {
+      "nom": "Enviat"
+    }
+  },
+  {
+    "model": "Botiga.estatenviament",
+    "pk": 3,
+    "fields": {
+      "nom": "Rebut"
+    }
+  }
+]

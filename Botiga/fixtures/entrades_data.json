@@ -1,0 +1,12 @@
+[
+  {"model": "Botiga.Entrada", "pk": 1,  "fields": {"pagament": 3,  "esdeveniment": 1,  "activa": 1, "codi": "SRC-2030-001"}},
+  {"model": "Botiga.Entrada", "pk": 2,  "fields": {"pagament": 6,  "esdeveniment": 1,  "activa": 1, "codi": "SRC-2030-002"}},
+  {"model": "Botiga.Entrada", "pk": 3,  "fields": {"pagament": 8,  "esdeveniment": 3,  "activa": 1, "codi": "SRC-2030-003"}},
+  {"model": "Botiga.Entrada", "pk": 4,  "fields": {"pagament": 11, "esdeveniment": 6,  "activa": 1, "codi": "SRC-2030-004"}},
+  {"model": "Botiga.Entrada", "pk": 5,  "fields": {"pagament": 13, "esdeveniment": 7,  "activa": 1, "codi": "SRC-2030-005"}},
+  {"model": "Botiga.Entrada", "pk": 6,  "fields": {"pagament": 16, "esdeveniment": 1,  "activa": 1, "codi": "SRC-2030-006"}},
+  {"model": "Botiga.Entrada", "pk": 7,  "fields": {"pagament": 17, "esdeveniment": 3,  "activa": 0, "codi": "SRC-2030-007"}},
+  {"model": "Botiga.Entrada", "pk": 8,  "fields": {"pagament": 18, "esdeveniment": 7,  "activa": 1, "codi": "SRC-2030-008"}},
+  {"model": "Botiga.Entrada", "pk": 9,  "fields": {"pagament": 19, "esdeveniment": 13, "activa": 1, "codi": "SRC-2030-009"}},
+  {"model": "Botiga.Entrada", "pk": 10, "fields": {"pagament": 20, "esdeveniment": 5,  "activa": 1, "codi": "SRC-2030-010"}}
+]

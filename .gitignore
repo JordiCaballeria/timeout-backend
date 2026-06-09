@@ -1,0 +1,21 @@
+/Patrocinadors/migrations/
+/noticies/migrations/
+/User/migrations/
+/Esdeveniment/migrations/
+/Equip/migrations/
+/Botiga/migrations/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entorn virtual
+venv/
+env/
+
+# Variables d'entorn
+.env
+
+# Base de dades local
+*.sqlite3

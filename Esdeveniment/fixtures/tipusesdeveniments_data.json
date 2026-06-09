@@ -1,0 +1,42 @@
+[
+  {
+      "model": "Esdeveniment.TipusEsdeveniment",
+      "pk": 1,
+      "fields": {
+        "nom": "Partit Local",
+        "descripcio": "Partit que el club juga com a local"
+       }
+    },
+  {
+      "model": "Esdeveniment.TipusEsdeveniment",
+      "pk": 2,
+      "fields": {
+        "nom": "Partit Visitant",
+        "descripcio": "Partit que el club juga com a visitant"
+       }
+    },
+  {
+      "model": "Esdeveniment.TipusEsdeveniment",
+      "pk": 3,
+      "fields": {
+        "nom": "Tercer temps",
+        "descripcio": "Acte de germano que es realitza despres del partit"
+       }
+    },
+  {
+      "model": "Esdeveniment.TipusEsdeveniment",
+      "pk": 4,
+      "fields": {
+        "nom": "Entrenament",
+        "descripcio": "Entrenament programat per un entrenador"
+       }
+    },
+  {
+      "model": "Esdeveniment.TipusEsdeveniment",
+      "pk": 5,
+      "fields": {
+        "nom": "Escoleta",
+        "descripcio": "Actes organitzats per la escoleta"
+       }
+    }
+  ]
